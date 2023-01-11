@@ -1,0 +1,30 @@
+@import url('./tailwind.css');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap');
+
+/* ========= Website Common styles ========= */
+.blackish-indigo-gradient-button {
+    @apply bg-gradient-to-r from-[color:#fff] via-[color:#6f00fe] to-white animate-gradient-x-10 text-white;
+}
+.website-default-font {
+    font-family: 'Lato', sans-serif;
+}
+
+/* ========= Navbar.js ========= */
+/* ========= NavItemActive ========= */
+.nav-active {
+    @apply [color:#000] dark:text-gray-100 [border-color:#6f00fe] border-b-2 hover:text-black dark:hover:text-gray-100 !important;
+}
+.footer-active {
+    @apply [color:#000] dark:text-gray-100 [border-color:#6f00fe] border-b-2 hover:text-black dark:hover:text-gray-100 !important;
+}
+.indigo-underline {
+    @apply [border-color:#6f00fe] border-b-2 !important;
+}
+
+/* ========= NavHamburgurMenu ========= */
+/* ========= Posts ========= */
+/* Post Date Font  */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Source+Sans+Pro:wght@100&display=swap');
+.post-date-font{
+    font-family: 'Lato', sans-serif;
+}

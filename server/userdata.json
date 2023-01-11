@@ -1,0 +1,42 @@
+{
+  "bhai": {
+    "name": "bhai",
+    "username": "Apnabhai995",
+    "age": "17",
+    "website": "https://www.bhai.com",
+    "email": "bhai@bhaiiya.com",
+    "password": "bhai#123"
+  },
+  "anubhav": {
+    "name": "Anubhav",
+    "username": "anubhav_rj",
+    "age": "19",
+    "website": "https://www.startonic.com",
+    "email": "anubhavrj@startonic.com",
+    "password": "anubhav#193"
+  },
+  "mohini": {
+    "name": "Mohini Yadav",
+    "username": "its.cutie_mohini",
+    "age": "20",
+    "website": "https://www.mohmaaya.com",
+    "email": "mohiniyadav@mohmaaya.com",
+    "password": "mohini#936"
+  },
+  "nitesh": {
+    "name": "Nitesh Aggrawal",
+    "username": "Nobruhhh",
+    "age": "19",
+    "website": "https://www.desiwebapps.com",
+    "email": "nitesh@desiwebapps.com",
+    "password": "Nitesh#xd4u"
+  },
+  "yashaswini": {
+    "name": "Yashaswini Chauhan",
+    "username": "the.pretty_girl",
+    "age": "19",
+    "website": "https://www.worldofcringe.com",
+    "email": "yashaswini@worldofcringe.com",
+    "password": "yashaswiniisgoodgirl#unilover498"
+  }
+}
