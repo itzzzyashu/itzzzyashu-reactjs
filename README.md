@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is a normal react app with server.
  Download and extract zip file.
  
 ### Run the following commands in root directory to get started.
